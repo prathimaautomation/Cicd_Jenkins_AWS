@@ -1,4 +1,5 @@
-# Multi Machine automated deployment
+# Multi Machine automated deployment via Jenkins
+![](cicd_jenkins_pipeline.png)
 
 ## Sparta Node Sample App
 
